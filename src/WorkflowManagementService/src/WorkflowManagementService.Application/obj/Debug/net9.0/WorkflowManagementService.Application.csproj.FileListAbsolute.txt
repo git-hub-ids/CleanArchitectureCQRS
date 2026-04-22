@@ -1,0 +1,15 @@
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\bin\Debug\net9.0\WorkflowManagementService.Application.deps.json
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\bin\Debug\net9.0\WorkflowManagementService.Application.dll
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\bin\Debug\net9.0\WorkflowManagementService.Application.pdb
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\bin\Debug\net9.0\WorkflowManagementService.Domain.dll
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\bin\Debug\net9.0\WorkflowManagementService.Domain.pdb
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\obj\Debug\net9.0\WorkflowManagementService.Application.csproj.AssemblyReference.cache
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\obj\Debug\net9.0\WorkflowManagementService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\obj\Debug\net9.0\WorkflowManagementService.Application.AssemblyInfoInputs.cache
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\obj\Debug\net9.0\WorkflowManagementService.Application.AssemblyInfo.cs
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\obj\Debug\net9.0\WorkflowManagementService.Application.csproj.CoreCompileInputs.cache
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\obj\Debug\net9.0\Workflow.5613DE54.Up2Date
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\obj\Debug\net9.0\WorkflowManagementService.Application.dll
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\obj\Debug\net9.0\refint\WorkflowManagementService.Application.dll
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\obj\Debug\net9.0\WorkflowManagementService.Application.pdb
+C:\Users\a.kabbout\Desktop\Projects\RDH\API\src\WorkflowManagementService\src\WorkflowManagementService.Application\obj\Debug\net9.0\ref\WorkflowManagementService.Application.dll

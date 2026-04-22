@@ -1,0 +1,6 @@
+@WorkflowManagementService.API_HostAddress = http://localhost:5009
+
+GET {{WorkflowManagementService.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
